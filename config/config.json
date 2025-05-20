@@ -1,0 +1,32 @@
+{
+  "is_loop": false,
+  "is_debug": true,
+  "purchase_btn_location": [
+    0.5411,
+    0.3852
+  ],
+  "card_name_range": [
+    715,
+    295,
+    141,
+    43
+  ],
+  "card_price_range": [
+    956,
+    213,
+    49,
+    43
+  ],
+  "keys": [
+    {
+      "name": "Test1",
+      "floating_percentage_range": 0.211,
+      "ideal_price": 28000001,
+      "position": [
+        0.5365,
+        0.5176
+      ],
+      "want_buy": 1
+    }
+  ]
+}
