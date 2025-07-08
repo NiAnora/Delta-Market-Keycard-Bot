@@ -34,5 +34,5 @@
 ```
 详细教程前往博客查看
 [我的博客](https://blog.niany.cn/index.php/archives/58/ "点击前往")
-遇到问题，建议可以加群
+遇到问题，提建议都可以加群
 [抢卡交流群](https://qm.qq.com/q/jIsr9vkyqY "点击前往")
